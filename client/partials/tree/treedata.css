@@ -1,0 +1,17 @@
+/* CSS declarations go here */
+
+header {
+	background: #eee;
+	margin-bottom: 40px;
+	padding: 20px;
+}
+#sidebar {
+float: left;
+width: 30%;
+}
+
+#content {
+float: right;
+width: 65%;
+margin-left: 5%;
+}
